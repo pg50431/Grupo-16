@@ -1,0 +1,111 @@
+LOCUS       KR709634                1563 bp    DNA     linear   SYN 01-JUN-2015
+DEFINITION  Synthetic construct Homo sapiens clone CCSBHm_00004362 PPARG
+            (PPARG) mRNA, encodes complete protein.
+ACCESSION   KR709634
+VERSION     KR709634.1
+KEYWORDS    human mutation ORFeome; hmORFeome1.1; Gateway cloning system;
+            full-length ORF.
+SOURCE      synthetic construct
+  ORGANISM  synthetic construct
+            other sequences; artificial sequences.
+REFERENCE   1  (bases 1 to 1563)
+  AUTHORS   Sahni,N., Yi,S., Taipale,M., Fuxman Bass,J.I.,
+            Coulombe-Huntington,J., Yang,F., Peng,J., Weile,J., Karras,G.I.,
+            Wang,Y., Kovacs,I.A., Kamburov,A., Krykbaeva,I., Lam,M.H.,
+            Tucker,G., Khurana,V., Sharma,A., Liu,Y.Y., Yachie,N., Zhong,Q.,
+            Shen,Y., Palagi,A., San-Miguel,A., Fan,C., Balcha,D., Dricot,A.,
+            Jordan,D.M., Walsh,J.M., Shah,A.A., Yang,X., Stoyanova,A.K.,
+            Leighton,A., Calderwood,M.A., Jacob,Y., Cusick,M.E.,
+            Salehi-Ashtiani,K., Whitesell,L.J., Sunyaev,S., Berger,B.,
+            Barabasi,A.L., Charloteaux,B., Hill,D.E., Hao,T., Roth,F.P.,
+            Xia,Y., Walhout,A.J., Lindquist,S. and Vidal,M.
+  TITLE     Widespread macromolecular interaction perturbations in human
+            genetic disorders
+  JOURNAL   Cell 161 (3), 647-660 (2015)
+   PUBMED   25910212
+REFERENCE   2  (bases 1 to 1563)
+  AUTHORS   Sahni,N., Yi,S., Taipale,M., Fuxman Bass,J.I.,
+            Coulombe-Huntington,J., Yang,F., Peng,J., Weile,J., Karras,G.I.,
+            Wang,Y., Kovacs,I.A., Kamburov,A., Krykbaeva,I., Lam,M.H.,
+            Tucker,G., Khurana,V., Sharma,A., Liu,Y.-Y., Yachie,N., Zhong,Q.,
+            Shen,Y., Palagi,A., San-Miguel,A., Fan,C., Balcha,D., Dricot,A.,
+            Jordan,D.M., Walsh,J.M., Shah,A.A., Yang,X., Stoyanova,A.K.,
+            Leighton,A., Calderwood,M.A., Jacob,Y., Cusick,M.E.,
+            Salehi-Ashtiani,K., Whitesell,L.J., Sunyaev,S., Berger,B.,
+            Barabasi,A.-L., Charloteaux,B., Hill,D.E., Hao,T., Roth,F.P.,
+            Xia,Y., Walhout,A.J.M., Lindquist,S. and Vidal,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2015) Center for Cancer Systems Biology (CCSB),
+            Department of Cancer Biology, Dana-Farber Cancer Institute, 450
+            Brookline Avenue, Boston, MA 02215, USA
+COMMENT     For distribution information, please check CCSB website
+            (http://ccsb.dfci.harvard.edu/ and
+            http://horfdb.dfci.harvard.edu/).
+FEATURES             Location/Qualifiers
+     source          1..1563
+                     /organism="synthetic construct"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:32630"
+                     /clone="CCSBHm_00004362"
+                     /focus
+                     /note="vector:pDONR223; derived from parent clone GenBank
+                     accession: KJ891855"
+     source          66..1496
+                     /organism="Homo sapiens"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:9606"
+     gene            66..>1496
+                     /gene="PPARG"
+                     /db_xref="GeneID:5468"
+     CDS             66..>1496
+                     /gene="PPARG"
+                     /note="full-length ORF without stop codon"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="PPARG"
+                     /protein_id="AKI70016.1"
+                     /db_xref="GeneID:5468"
+                     /translation="MTMVDTEMPFWPTNFGISSVDLSVMEDHSHSFDIKPFTTVDFSS
+                     ISTPHYEDIPFTRTDPVVADYKYDLKLQEYQSAIKVEPASPPYYSEKTQLYNKPHEEP
+                     SNSLMAIECRVCGDKASGFHYGVHACEGCKGFFRRTIRLKLIYDRCDLNCRIHKKSRN
+                     KCQYCRFQKCLAVGMSHNAIRFGRMPQAEKEKLLAEISSDIDQLNPESADLRALAKHL
+                     YDSYIKSFPLTKAKARAILTGKTTDKSPFVIYDMNSLMMGEDKIKFKHITPLQEQSKE
+                     VAIRIFQGCQFRSVEAVQEITEYAKSIPGFVNLDLNDQVTLLKYGVHEIIYTMLASLM
+                     NKDGVLISEGQGFMTREFLKSLRKPFGDFMEPKFEFAVKFNALELDDSDLAIFIAVII
+                     LSGNRPGLLNVKPIEDIQDNLLQALELQLKLNHPESSQLFAKLLQKMTDLRQIVTEHV
+                     QLLQVIKKTETDMSLHPLLQEIYKDLY"
+     misc_difference 1251
+                     /gene="PPARG"
+                     /note="compared to parent clone; results in D to N
+                     substitution"
+                     /replace="g"
+ORIGIN      
+        1 gttcgttgca acaaattgat gagcaatgct tttttataat gccaactttg tacaaaaaag
+       61 ttggcatgac catggttgac acagagatgc cattctggcc caccaacttt gggatcagct
+      121 ccgtggatct ctccgtaatg gaagaccact cccactcctt tgatatcaag cccttcacta
+      181 ctgttgactt ctccagcatt tctactccac attacgaaga cattccattc acaagaacag
+      241 atccagtggt tgcagattac aagtatgacc tgaaacttca agagtaccaa agtgcaatca
+      301 aagtggagcc tgcatctcca ccttattatt ctgagaagac tcagctctac aataagcctc
+      361 atgaagagcc ttccaactcc ctcatggcaa ttgaatgtcg tgtctgtgga gataaagctt
+      421 ctggatttca ctatggagtt catgcttgtg aaggatgcaa gggtttcttc cggagaacaa
+      481 tcagattgaa gcttatctat gacagatgtg atcttaactg tcggatccac aaaaaaagta
+      541 gaaataaatg tcagtactgt cggtttcaga aatgccttgc agtggggatg tctcataatg
+      601 ccatcaggtt tgggcggatg ccacaggccg agaaggagaa gctgttggcg gagatctcca
+      661 gtgatatcga ccagctgaat ccagagtccg ctgacctccg ggccctggca aaacatttgt
+      721 atgactcata cataaagtcc ttcccgctga ccaaagcaaa ggcgagggcg atcttgacag
+      781 gaaagacaac agacaaatca ccattcgtta tctatgacat gaattcctta atgatgggag
+      841 aagataaaat caagttcaaa cacatcaccc ccctgcagga gcagagcaaa gaggtggcca
+      901 tccgcatctt tcagggctgc cagtttcgct ccgtggaggc tgtgcaggag atcacagagt
+      961 atgccaaaag cattcctggt tttgtaaatc ttgacttgaa cgaccaagta actctcctca
+     1021 aatatggagt ccacgagatc atttacacaa tgctggcctc cttgatgaat aaagatgggg
+     1081 ttctcatatc cgagggccaa ggcttcatga caagggagtt tctaaagagc ctgcgaaagc
+     1141 cttttggtga ctttatggag cccaagtttg agtttgctgt gaagttcaat gcactggaat
+     1201 tagatgacag cgacttggca atatttattg ctgtcattat tctcagtgga aaccgcccag
+     1261 gtttgctgaa tgtgaagccc attgaagaca ttcaagacaa cctgctacaa gccctggagc
+     1321 tccagctgaa gctgaaccac cctgagtcct cacagctgtt tgccaagctg ctccagaaaa
+     1381 tgacagacct cagacagatt gtcacggaac acgtgcagct actgcaggtg atcaagaaga
+     1441 cggagacaga catgagtctt cacccgctcc tgcaggagat ctacaaggac ttgtactacc
+     1501 caactttctt gtacaaagtt ggcattataa gaaagcattg cttatcaatt tgttgcaacg
+     1561 aac
+//
+

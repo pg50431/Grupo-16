@@ -1,0 +1,101 @@
+LOCUS       KJ900814                1926 bp    DNA     linear   SYN 19-MAR-2015
+DEFINITION  Synthetic construct Homo sapiens clone ccsbBroadEn_10208 IGF2BP2
+            gene, encodes complete protein.
+ACCESSION   KJ900814
+VERSION     KJ900814.1
+KEYWORDS    ORFeome Collaboration; Gateway cloning system; full-length ORF
+            without stop codon.
+SOURCE      synthetic construct
+  ORGANISM  synthetic construct
+            other sequences; artificial sequences.
+REFERENCE   1  (bases 1 to 1926)
+  AUTHORS   Yang,X., Boehm,J.S., Yang,X., Salehi-Ashtiani,K., Hao,T., Shen,Y.,
+            Lubonja,R., Thomas,S.R., Alkan,O., Bhimdi,T., Green,T.M.,
+            Johannessen,C.M., Silver,S.J., Nguyen,C., Murray,R.R.,
+            Hieronymus,H., Balcha,D., Fan,C., Lin,C., Ghamsari,L., Vidal,M.,
+            Hahn,W.C., Hill,D.E. and Root,D.E.
+  TITLE     A public genome-scale lentiviral expression library of human ORFs
+  JOURNAL   Nat. Methods 8 (8), 659-661 (2011)
+   PUBMED   21706014
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1926)
+  AUTHORS   Root,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAY-2014) Broad Institute, 75 Ames St., Cambridge, MA
+            02142, USA
+COMMENT     This clone is distributed via members of the ORFeome Collaboration
+            (http://www.orfeomecollaboration.org/), including the
+            Dana-Farber/Harvard Cancer Center (DF/HCC) DNA Resource Core DNA
+            Repository
+            (http://www.dfhcc.harvard.edu/core-facilities/dnaresource/) and the
+            DNASU Plasmid Repository at ASU Biodesign Institute
+            (http://dnasu.asu.edu/DNASU/Home.jsp).  See also
+            http://www.broadinstitute.org/rnai/public/ for additional
+            information on this clone.
+FEATURES             Location/Qualifiers
+     source          1..1926
+                     /organism="synthetic construct"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:32630"
+                     /clone="ccsbBroadEn_10208"
+                     /focus
+                     /note="derived from Homo sapiens; Vector:pDONR223; derived
+                     from source materials corresponding to GenBank accession:
+                     BC021290.2; indicated CDS derived from human cDNA clone"
+     source          66..1860
+                     /organism="Homo sapiens"
+                     /mol_type="other DNA"
+                     /db_xref="taxon:9606"
+     CDS             66..>1860
+                     /note="missing stop codon"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="IGF2BP2"
+                     /protein_id="AIC58343.1"
+                     /translation="MNKLYIGNLSPAVTADDLRQLFGDRKLPLAGQVLLKSGYAFVDY
+                     PDQNWAIRAIETLSGKVELHGKIMEVDYSVSKKLRSRKIQIRNIPPHLQWEVLDGLLA
+                     QYGTVENVEQVNTDTETAVVNVTYATREEAKIAMEKLSGHQFENYSFKISYIPDEEVS
+                     SPSPPQRAQRGDHSSREQGHAPGGTSQARQIDFPLRILVPTQFVGAIIGKEGLTIKNI
+                     TKQTQSRVDIHRKENSGAAEKPVTIHATPEGTSEACRMILEIMQKEADETKLAEEIPL
+                     KILAHNGLVGRLIGKEGRNLKKIEHETGTKITISSLQDLSIYNPERTITVKGTVEACA
+                     SAEIEIMKKLREAFENDMLAVNQQANLIPGLNLSALGIFSTGLSVLSPPAGPRGAPPA
+                     APYHPFTTHSGYFSSLYPHHQFGPFPHHHSYPEQEIVNLFIPTQAVGAIIGKKGAHIK
+                     QLARFAGASIKIAPAEGPDVSERMVIITGPPEAQFKAQGRIFGKLKEENFFNPKEEVK
+                     LEAHIRVPSSTAGRVIGKGGKTVNELQNLTSAEVIVPRDQTPDENEEVIVRIIGHFFA
+                     SQTAQRKIREIVQQVKQQEQKYPQGVASQRSK"
+ORIGIN      
+        1 gttcgttgca acaaattgat gagcaatgct tttttataat gccaactttg tacaaaaaag
+       61 ttggcatgaa caagctttac atcgggaacc tgagccccgc cgtcaccgcc gacgacctcc
+      121 ggcagctctt tggggacagg aagctgcccc tggcgggaca ggtcctgctg aagtccggct
+      181 acgccttcgt ggactacccc gaccagaact gggccatccg cgccatcgag accctctcgg
+      241 gtaaagtgga attgcatggg aaaatcatgg aagttgatta ctcagtctct aaaaagctaa
+      301 ggagcaggaa aattcagatt cgaaacatcc ctcctcacct gcagtgggag gtgttggatg
+      361 gacttttggc tcaatatggg acagtggaga atgtggaaca agtcaacaca gacacagaaa
+      421 ccgccgttgt caacgtcaca tatgcaacaa gagaagaagc aaaaatagcc atggagaagc
+      481 taagcgggca tcagtttgag aactactcct tcaagatttc ctacatcccg gatgaagagg
+      541 tgagctcccc ttcgccccct cagcgagccc agcgtgggga ccactcttcc cgggagcaag
+      601 gccacgcccc tgggggcact tctcaggcca gacagattga tttcccgctg cggatcctgg
+      661 tccccaccca gtttgttggt gccatcatcg gaaaggaggg cttgaccata aagaacatca
+      721 ctaagcagac ccagtcccgg gtagatatcc atagaaaaga gaactctgga gctgcagaga
+      781 agcctgtcac catccatgcc accccagagg ggacttctga agcatgccgc atgattcttg
+      841 aaatcatgca gaaagaggca gatgagacca aactagccga agagattcct ctgaaaatct
+      901 tggcacacaa tggcttggtt ggaagactga ttggaaaaga aggcagaaat ttgaagaaaa
+      961 ttgaacatga aacagggacc aagataacaa tctcatcttt gcaggatttg agcatataca
+     1021 acccggaaag aaccatcact gtgaagggca cagttgaggc ctgtgccagt gctgagatag
+     1081 agattatgaa gaagctgcgt gaggcctttg aaaatgatat gctggctgtt aaccaacaag
+     1141 ccaatctgat cccagggttg aacctcagcg cacttggcat cttttcaaca ggactgtccg
+     1201 tgctatctcc accagcaggg ccccgcggag ctccccccgc tgccccctac caccccttca
+     1261 ctacccactc cggatacttc tccagcctgt acccccatca ccagtttggc ccgttcccgc
+     1321 atcatcactc ttatccagag caggagattg tgaatctctt catcccaacc caggctgtgg
+     1381 gcgccatcat cgggaagaag ggggcacaca tcaaacagct ggcgagattc gccggagcct
+     1441 ctatcaagat tgcccctgcg gaaggcccag acgtcagcga aaggatggtc atcatcaccg
+     1501 ggccaccgga agcccagttc aaggcccagg gacggatctt tgggaaactg aaagaggaaa
+     1561 acttctttaa ccccaaagaa gaagtgaagc tggaagcgca tatcagagtg ccctcttcca
+     1621 cagctggccg ggtgattggc aaaggtggca agaccgtgaa cgaactgcag aacttaacca
+     1681 gtgcagaagt catcgtgcct cgtgaccaaa cgccagatga aaatgaggaa gtgatcgtca
+     1741 gaattatcgg gcacttcttt gctagccaga ctgcacagcg caagatcagg gaaattgtac
+     1801 aacaggtgaa gcagcaggag cagaaatacc ctcagggagt cgcctcacag cgcagcaagt
+     1861 gcccaacttt cttgtacaaa gttggcatta taagaaagca ttgcttatca atttgttgca
+     1921 acgaac
+//
+
